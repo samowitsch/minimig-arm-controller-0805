@@ -34,7 +34,7 @@ This rebuild pcb uses the same designators as the existing ARM controller.
 To buy the parts for this board you can use the existing [a1k.org parts list](resources/minimig_arm_v11fix_bestueckung.pdf).
 But instead of 0603 components you can use the larger 0805 smd components.
 
-## How to flash the Minimig firmware
+## How to flash the ARM Controller firmware
 
 ### Flash standalone
 
