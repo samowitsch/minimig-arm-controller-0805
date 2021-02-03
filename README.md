@@ -36,6 +36,8 @@ But instead of 0603 components you can use the larger 0805 smd components.
 
 ## How to flash the ARM Controller firmware
 
+The needed firmware [you can find here](https://www.a1k.org/forum/index.php?threads/39601/) (requires registration).
+
 ### Flash standalone
 
 1. Connect the TEST header pins with a jumper. Then power up the board with 3.3 V connected to the 
