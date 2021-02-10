@@ -1186,4 +1186,6 @@ Text Notes 4050 4200 0    50   ~ 10
 +1V8
 Text Notes 1850 2400 0    50   ~ 10
 +1V8
+Text Notes 6750 5950 0    50   ~ 10
+Note Two-wire Interface:\nPA3 -> TWD \nPA4 -> TWCK
 $EndSCHEMATC
