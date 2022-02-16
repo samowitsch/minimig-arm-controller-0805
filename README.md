@@ -27,6 +27,7 @@ Because of this defeat i decided to make a board using 0805 SMD components for e
 
 * KiCad files
 * Gerber files
+* [Firmware files](/firmware/Readme.md)
 
 ## BOM
 
@@ -36,7 +37,7 @@ But instead of 0603 components you can use the larger 0805 smd components.
 
 ## How to flash the ARM Controller firmware
 
-The needed firmware [you can find here](https://www.a1k.org/forum/index.php?threads/39601/) (requires registration).
+The needed firmware [you can find here](https://www.a1k.org/forum/index.php?threads/39601/) (requires registration) or in [this repository](/firmware/Readme.md).
 
 ### Flash standalone
 
@@ -51,7 +52,7 @@ The needed firmware [you can find here](https://www.a1k.org/forum/index.php?thre
 ![programming-02](images/programming-02.png)
 
 3. For example under Ubuntu you should see now a usb device **/dev/ttyACM0**. For 
-   Ubuntu you need the SAM-BA CDC 2.18 utility.
+   Ubuntu you need the [SAM-BA CDC 2.18](https://www.microchip.com/en-us/development-tool/SAM-BA-In-system-Programmer) ([Download](https://ww1.microchip.com/downloads/en/DeviceDoc/SAM-BA+v2.18+for+Linux.zip)) utility (maybe a newer version is working too).
 
 ![programming-03](images/programming-03.png)
 
