@@ -1,1 +1,4 @@
 .idea
+
+# ignore kicad backups
+/minimig-arm-controller-0805-backups
