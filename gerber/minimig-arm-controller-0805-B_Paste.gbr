@@ -1,15 +1,56 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.2-378541a8eb~116~ubuntu20.04.1*
-G04 #@! TF.CreationDate,2022-02-16T17:00:19+01:00*
+G04 #@! TF.CreationDate,2022-02-17T23:44:55+01:00*
 G04 #@! TF.ProjectId,minimig-arm-controller-0805,6d696e69-6d69-4672-9d61-726d2d636f6e,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.2-378541a8eb~116~ubuntu20.04.1) date 2022-02-16 17:00:19*
+G04 Created by KiCad (PCBNEW 6.0.2-378541a8eb~116~ubuntu20.04.1) date 2022-02-17 23:44:55*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRoundRect*
+0 Rectangle with rounded corners*
+0 $1 Rounding radius*
+0 $2 $3 $4 $5 $6 $7 $8 $9 X,Y pos of 4 corners*
+0 Add a 4 corners polygon primitive as box body*
+4,1,4,$2,$3,$4,$5,$6,$7,$8,$9,$2,$3,0*
+0 Add four circle primitives for the rounded corners*
+1,1,$1+$1,$2,$3*
+1,1,$1+$1,$4,$5*
+1,1,$1+$1,$6,$7*
+1,1,$1+$1,$8,$9*
+0 Add four rect primitives between the rounded corners*
+20,1,$1+$1,$2,$3,$4,$5,0*
+20,1,$1+$1,$4,$5,$6,$7,0*
+20,1,$1+$1,$6,$7,$8,$9,0*
+20,1,$1+$1,$8,$9,$2,$3,0*%
+G04 Aperture macros list end*
+%ADD10RoundRect,0.250000X-0.337500X-0.475000X0.337500X-0.475000X0.337500X0.475000X-0.337500X0.475000X0*%
+%ADD11RoundRect,0.250000X0.337500X0.475000X-0.337500X0.475000X-0.337500X-0.475000X0.337500X-0.475000X0*%
+%ADD12RoundRect,0.250000X-0.475000X0.337500X-0.475000X-0.337500X0.475000X-0.337500X0.475000X0.337500X0*%
 G04 APERTURE END LIST*
+D10*
+G04 #@! TO.C,C3*
+X133907500Y-44430000D03*
+X131832500Y-44430000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.C,C15*
+X133927500Y-48660000D03*
+X131852500Y-48660000D03*
+G04 #@! TD*
+D12*
+G04 #@! TO.C,C17*
+X141890000Y-52082500D03*
+X141890000Y-54157500D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.C,C14*
+X133917500Y-46550000D03*
+X131842500Y-46550000D03*
+G04 #@! TD*
 M02*
