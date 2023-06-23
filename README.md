@@ -2,7 +2,7 @@
 
 Rebuild Minimig ARM Controller board using 0805 SMD components.
 
-> ⚠️ IMPORTANT NOTICE! It seems that only the first rev 1 of my Mimimig controller is working!
+> ⚠️ IMPORTANT NOTICE! It seems that only the first rev 1 of my Minimig controller is working!
 
 ## Preface
 
