@@ -1,0 +1,1301 @@
+Archive member included because of file (symbol)
+
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+                              ./src/printf.o (__aeabi_uidiv)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+                              /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+                              ./src/fat.o (__ctype_ptr__)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+                              ./src/syscalls.o (__errno)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+                              ./src/hardware.o (_impure_ptr)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+                              ./src/menu.o (memcmp)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+                              ./src/stringlight.o (memcpy)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+                              ./src/syscalls.o (memset)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+                              ./src/menu.o (strcat)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+                              ./src/fat.o (strcpy)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+                              ./src/stringlight.o (strlen)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+                              ./src/menu.o (strncat)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+                              ./src/fat.o (strncmp)
+/home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+                              ./src/fat.o (strncpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+fs_Options          0x1               ./src/menu.o
+response            0x1               ./src/mmc.o
+fat_size            0x4               ./src/fat.o
+fs_MenuCancel       0x1               ./src/menu.o
+CardType            0x1               ./src/mmc.o
+DirEntryLFN         0x828             ./src/fat.o
+DirEntry            0x100             ./src/fat.o
+root_directory_cluster
+                    0x4               ./src/fat.o
+sector_buffer       0x200             ./src/fat.o
+DiskInfo            0x5               ./src/menu.o
+fs_MenuSelect       0x1               ./src/menu.o
+dir_entries         0x2               ./src/fat.o
+crc                 0x1               ./src/mmc.o
+file                0x12c             ./src/main.o
+fat_number          0x1               ./src/fat.o
+buffered_fat_index  0x4               ./src/fat.o
+fat_start           0x4               ./src/fat.o
+entries_per_cluster
+                    0x2               ./src/fat.o
+scroll_offset       0x4               ./src/menu.o
+df                  0xaf0             ./src/fdd.o
+root_directory_start
+                    0x4               ./src/fat.o
+cluster_mask        0x4               ./src/fat.o
+t_sort_table        0x8               ./src/fat.o
+root_directory_size
+                    0x4               ./src/fat.o
+cluster_size        0x1               ./src/fat.o
+sort_table          0x8               ./src/fat.o
+timeout             0x4               ./src/mmc.o
+t_DirEntryLFN       0x828             ./src/fat.o
+directory_cluster   0x2               ./src/fat.o
+data_start          0x4               ./src/fat.o
+Error               0x1               ./src/main.o
+fat_buffer          0x400             ./src/fat.o
+s                   0x28              ./src/main.o
+hdf                 0x2270            ./src/hdd.o
+t_DirEntry          0x100             ./src/fat.o
+DirEntryInfo        0x28              ./src/menu.o
+pdfx                0x4               ./src/fdd.o
+scroll_timer        0x4               ./src/menu.o
+boot_sector         0x4               ./src/fat.o
+menu_timer          0x4               ./src/menu.o
+config              0x7c              ./src/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x00100000         0x00040000         xr
+RAM              0x00200000         0x00010000         xrw
+STACK            0x00210000         0x00000000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/startup.o
+LOAD ./src/syscalls.o
+LOAD ./src/stringlight.o
+LOAD ./src/printf.o
+LOAD ./src/fdd.o
+LOAD ./src/fat.o
+LOAD ./src/osd.o
+LOAD ./src/fpga.o
+LOAD ./src/firmware.o
+LOAD ./src/hardware.o
+LOAD ./src/hdd.o
+LOAD ./src/menu.o
+LOAD ./src/mmc.o
+LOAD ./src/main.o
+START GROUP
+LOAD /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a
+LOAD /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a
+END GROUP
+START GROUP
+LOAD /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a
+LOAD /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a
+END GROUP
+                0x00001000                C_STACK_SIZE = 0x1000
+                0x00000000                IRQ_STACK_SIZE = 0x0
+                0x00000000                FIQ_STACK_SIZE = 0x0
+                0x00000000                SVC_STACK_SIZE = 0x0
+                0x00000000                ABT_STACK_SIZE = 0x0
+                0x00000000                UND_STACK_SIZE = 0x0
+
+.reset          0x00100000      0x170
+ *startup.o(.text)
+ .text          0x00100000      0x170 ./src/startup.o
+                0x00100000                _start
+                0x001000f8                ExitFunction
+                0x00100108                UndefHandler
+                0x0010010c                SWIHandler
+                0x00100110                PAbortHandler
+                0x00100114                DAbortHandler
+                0x00100118                IRQHandler
+                0x0010011c                FIQHandler
+                0x00100170                . = ALIGN (0x4)
+
+.ramvect        0x00200000       0x40
+                0x00200000                __ram_start = .
+                0x00000040                . = 0x40
+ *fill*         0x00200000       0x40 
+
+.fastcode       0x00200040      0x7a4 load address 0x00100170
+                0x00100170                __fastcode_load = LOADADDR (.fastcode)
+                0x00200040                __fastcode_start = .
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *isr.o(.text.*)
+ *(.text.fastcode)
+ .text.fastcode
+                0x00200040      0x114 ./src/fat.o
+                0x00200040                FileNextSector
+                0x00200108                FileRead
+ .text.fastcode
+                0x00200154      0x2a4 ./src/firmware.o
+                0x00200154                WriteFirmware
+                0x002002e0                SetSPIMode
+ .text.fastcode
+                0x002003f8       0xe4 ./src/hardware.o
+                0x002003f8                USART_Write
+                0x00200414                SPI_Init
+                0x00200450                SPI
+                0x00200490                SPI_Wait4XferEnd
+                0x002004a4                EnableCard
+                0x002004b4                DisableCard
+ .text.fastcode
+                0x002004dc      0x308 ./src/mmc.o
+                0x002004dc                MMC_CRC
+                0x00200534                MMC_Command
+                0x0020061c                MMC_Read
+ *(.text.Blinky_dispatch)
+                0x002007e4                . = ALIGN (0x4)
+                0x002007e4                __fastcode_end = .
+
+.text           0x00100914     0xdf84
+ CREATE_OBJECT_SYMBOLS
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x00100914      0x10c ./src/syscalls.o
+                0x00100914                _read_r
+                0x00100930                _lseek_r
+                0x00100938                _write_r
+                0x00100984                _close_r
+                0x0010098c                _sbrk_r
+                0x001009ec                _fstat_r
+                0x00100a18                _isatty_r
+ .text          0x00100a20       0xa0 ./src/stringlight.o
+                0x00100a20                _strncpySpace
+                0x00100a70                _strlcpy
+ .text          0x00100ac0      0x648 ./src/printf.o
+                0x00100df4                tfp_format
+                0x00101070                init_printf
+                0x00101084                tfp_printf
+                0x001010c0                tfp_sprintf
+ .text          0x00101108      0xfa4 ./src/fdd.o
+                0x00101108                SendSector
+                0x00101398                SendGap
+                0x001013d0                ReadTrack
+                0x001016b8                FindSync
+                0x001017bc                GetHeader
+                0x00101b54                GetData
+                0x00101e4c                WriteTrack
+                0x00101fbc                UpdateDriveStatus
+                0x00102004                HandleFDD
+ .text          0x001020ac     0x26ac ./src/fat.o
+                0x001020ac                FindDrive
+                0x00102504                lfn_checksum
+                0x00102544                _strnicmp
+                0x001025cc                CompareDirEntries
+                0x00102670                ChangeDirectory
+                0x00102688                GetFATLink
+                0x0010271c                FileOpen
+                0x00102934                ScanDirectory
+                0x00103fe4                FileSeek
+                0x0010412c                FileReadEx
+                0x001041d0                FileWrite
+                0x0010421c                FileCreate
+                0x00104640                UpdateEntry
+ .text          0x00104758      0x5d4 ./src/osd.o
+                0x00104758                OsdWrite
+                0x00104860                OSD_PrintText
+                0x001049ac                OsdClear
+                0x001049f8                OsdWaitVBL
+                0x00104a24                OsdEnable
+                0x00104a48                OsdDisable
+                0x00104a64                OsdReset
+                0x00104a90                ConfigFilter
+                0x00104ac8                ConfigMemory
+                0x00104ae8                ConfigChipset
+                0x00104b0c                ConfigFloppy
+                0x00104b44                ConfigScanlines
+                0x00104b68                ConfigIDE
+                0x00104bb0                ConfigAutofire
+                0x00104bd4                GetASCIIKey
+                0x00104bf4                OsdGetCtrl
+ .text          0x00104d2c      0x930 ./src/fpga.o
+                0x00104d2c                ShiftFpga
+                0x00104e38                ConfigureFpga
+                0x00105064                SendFile
+                0x00105190                BootPrint
+                0x0010531c                BootUpload
+                0x00105448                BootExit
+                0x00105520                ClearMemory
+                0x00105610                GetFPGAStatus
+ .text          0x0010565c      0x318 ./src/firmware.o
+                0x0010565c                CalculateCRC32
+                0x0010569c                CheckFirmware
+                0x00105960                GetSPIMode
+ .text          0x00105974      0x26c ./src/hardware.o
+                0x00105974                init_hardware
+                0x00105a50                USART_Init
+                0x00105aa0                USART_Putc
+                0x00105abc                fputc
+                0x00105b04                EnableFpga
+                0x00105b14                DisableFpga
+                0x00105b30                EnableOsd
+                0x00105b40                DisableOsd
+                0x00105b5c                CheckButton
+                0x00105b70                Timer_Init
+                0x00105b84                GetTimer
+                0x00105b9c                CheckTimer
+                0x00105bbc                WaitTimer
+ .text          0x00105be0      0xf4c ./src/hdd.o
+                0x00105be0                SwapBytes
+                0x00105c14                IdentifyDevice
+                0x00105dbc                chs2lba
+                0x00105e08                WriteTaskFile
+                0x00105ecc                WriteStatus
+                0x00105f14                GetHardfileGeometry
+                0x00106020                BuildHardfileIndex
+                0x001060a8                HardFileSeek
+                0x0010612c                HandleHDD
+                0x001069a8                OpenHardfile
+ .text          0x00106b2c     0x4004 ./src/menu.o
+                0x00106b2c                SelectFile
+                0x00106bb0                ScrollLongName
+                0x00106d88                GetDiskInfo
+                0x00106f00                PrintDirectory
+                0x0010719c                _strncpy
+                0x001071ec                InsertFloppy
+                0x001073b0                ErrorMessage
+                0x0010746c                InfoMessage
+                0x001074d0                HandleUI
+ .text          0x0010ab30      0x800 ./src/mmc.o
+                0x0010ab30                MMC_CMD12
+                0x0010ac18                MMC_Init
+                0x0010aff4                MMC_ReadMultiple
+                0x0010b1dc                MMC_Write
+ .text          0x0010b330      0xb28 ./src/main.o
+                0x0010b330                FatalError
+                0x0010b398                UploadKickstart
+                0x0010b47c                LoadConfiguration
+                0x0010b594                SaveConfiguration
+                0x0010b704                HandleFpga
+                0x0010b76c                main
+ .text          0x0010be58      0x114 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+                0x0010be58                __udivsi3
+                0x0010be58                __aeabi_uidiv
+                0x0010bf4c                __aeabi_uidivmod
+ .text          0x0010bf6c        0x4 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+                0x0010bf6c                __aeabi_ldiv0
+                0x0010bf6c                __aeabi_idiv0
+ .text          0x0010bf70        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+ .text          0x0010bf70        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+ .text.__errno  0x0010bf70       0x10 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+                0x0010bf70                __errno
+ .text          0x0010bf80        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .text          0x0010bf80        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+ .text.memcmp   0x0010bf80       0x3c /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+                0x0010bf80                memcmp
+ .text          0x0010bfbc        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x0010bfbc       0x1c /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+                0x0010bfbc                memcpy
+ .text          0x0010bfd8        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .text.memset   0x0010bfd8       0x18 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+                0x0010bfd8                memset
+ .text          0x0010bff0        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+ .text.strcat   0x0010bff0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+                0x0010bff0                strcat
+ .text          0x0010c020        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+ .text.strcpy   0x0010c020       0x18 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+                0x0010c020                strcpy
+ .text          0x0010c038        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+ .text.strlen   0x0010c038       0x1c /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+                0x0010c038                strlen
+ .text          0x0010c054        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+ .text.strncat  0x0010c054       0x58 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+                0x0010c054                strncat
+ .text          0x0010c0ac        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+ .text.strncmp  0x0010c0ac       0x5c /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+                0x0010c0ac                strncmp
+ .text          0x0010c108        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+ .text.strncpy  0x0010c108       0x38 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+                0x0010c108                strncpy
+ *(.plt)
+ *(.gnu.warning)
+ *(.glue_7t)
+ *(.glue_7)
+                0x0010c140                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0010c140       0xce ./src/fdd.o
+                                 0xd0 (size before relaxing)
+ *fill*         0x0010c20e        0x2 
+ .rodata.str1.4
+                0x0010c210      0x304 ./src/fat.o
+                                0x308 (size before relaxing)
+ .rodata        0x0010c514      0x880 ./src/osd.o
+                0x0010c514                charfont
+                0x0010cd14                keycode_table
+ .rodata.str1.4
+                0x0010cd94      0x10c ./src/fpga.o
+                                0x110 (size before relaxing)
+ .rodata        0x0010cea0      0x400 ./src/firmware.o
+                0x0010cea0                crc32_table
+ .rodata.str1.4
+                0x0010d2a0      0x1f8 ./src/firmware.o
+ .rodata        0x0010d498       0x10 ./src/hdd.o
+ .rodata.str1.4
+                0x0010d4a8      0x140 ./src/hdd.o
+                                0x148 (size before relaxing)
+ .rodata.str1.4
+                0x0010d5e8      0x950 ./src/menu.o
+                                0x988 (size before relaxing)
+ .rodata.str1.4
+                0x0010df38      0x2d3 ./src/mmc.o
+                                0x2d4 (size before relaxing)
+ *fill*         0x0010e20b        0x1 
+ .rodata        0x0010e20c       0x1c ./src/main.o
+                0x0010e218                version
+ .rodata.str1.4
+                0x0010e228      0x568 ./src/main.o
+                                0x588 (size before relaxing)
+ .rodata._ctype_
+                0x0010e790      0x101 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+                0x0010e790                _ctype_
+ .rodata.str1.1
+                0x0010e891        0x2 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ *fill*         0x0010e893        0x1 
+ .rodata._global_impure_ptr
+                0x0010e894        0x4 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+                0x0010e894                _global_impure_ptr
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ *(.gcc_except_table)
+ *(.eh_frame_hdr)
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0010e898                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0010e898                PROVIDE (__preinit_array_end, .)
+                0x0010e898                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0010e898                PROVIDE (__init_array_end, .)
+                0x0010e898                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x0010e898                PROVIDE (__fini_array_end, .)
+
+.vfp11_veneer   0x0010e898        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0010e898        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0010e898        0x0
+ .iplt          0x00000000        0x0 ./src/startup.o
+
+.rel.dyn        0x0010e898        0x0
+ .rel.iplt      0x00000000        0x0 ./src/startup.o
+
+.ARM.exidx      0x0010e898        0x0
+                0x0010e898                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0010e898                __exidx_end = .
+                0x0010e898                _etext = .
+
+.data           0x002007e4       0xd0 load address 0x0010e898
+                0x0010e898                __data_load = LOADADDR (.data)
+                0x002007e4                __data_start = .
+ *(.jcr)
+ *(.got.plt)
+ *(.got)
+ *(.shdata)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x002007e4        0x0 ./src/startup.o
+ .data          0x002007e4        0x0 ./src/syscalls.o
+ .data          0x002007e4        0x0 ./src/stringlight.o
+ .data          0x002007e4        0x0 ./src/printf.o
+ .data          0x002007e4        0x0 ./src/fdd.o
+ .data          0x002007e4        0x0 ./src/fat.o
+ .data          0x002007e4        0x0 ./src/osd.o
+ .data          0x002007e4        0x0 ./src/fpga.o
+ .data          0x002007e4        0x0 ./src/firmware.o
+ .data          0x002007e4        0x0 ./src/hardware.o
+ .data          0x002007e4        0x0 ./src/hdd.o
+ .data          0x002007e4       0x68 ./src/menu.o
+                0x002007f0                config_autofire_msg
+                0x00200800                config_chipset_msg
+                0x00200810                config_memory_chip_msg
+                0x00200820                config_memory_slow_msg
+                0x00200830                config_filter_msg
+                0x00200840                config_scanlines_msg
+ .data          0x0020084c        0x0 ./src/mmc.o
+ .data          0x0020084c        0x0 ./src/main.o
+ .data          0x0020084c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+ .data          0x0020084c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+ .data          0x0020084c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+ .data.__ctype_ptr__
+                0x0020084c        0x4 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+                0x0020084c                __ctype_ptr__
+ .data          0x00200850        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+ .data          0x00200850        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .data.impure_data
+                0x00200850       0x60 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x002008b0        0x4 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+                0x002008b0                _impure_ptr
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+ .data          0x002008b4        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+                0x002008b4                . = ALIGN (0x4)
+                0x002008b4                _edata = .
+
+.igot.plt       0x002008b4        0x0 load address 0x0010e968
+ .igot.plt      0x00000000        0x0 ./src/startup.o
+
+.bss            0x002008b4     0x498c load address 0x0010e968
+                0x002008b4                __bss_start__ = .
+ *(.shbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x002008b4        0x0 ./src/startup.o
+ .bss           0x002008b4        0x4 ./src/syscalls.o
+ .bss           0x002008b8        0x0 ./src/stringlight.o
+ .bss           0x002008b8        0x8 ./src/printf.o
+ .bss           0x002008c0        0x2 ./src/fdd.o
+                0x002008c0                DEBUG
+                0x002008c1                drives
+ *fill*         0x002008c2        0x2 
+ .bss           0x002008c4      0x114 ./src/fat.o
+                0x002008c4                fat32
+                0x002008c8                iPreviousDirectory
+                0x002008cc                iCurrentDirectory
+                0x002009d5                nDirEntries
+                0x002009d6                iSelectedEntry
+ .bss           0x002009d8       0x10 ./src/osd.o
+ .bss           0x002009e8        0x0 ./src/fpga.o
+ .bss           0x002009e8        0x0 ./src/firmware.o
+ .bss           0x002009e8        0x0 ./src/hardware.o
+ .bss           0x002009e8        0x0 ./src/hdd.o
+ .bss           0x002009e8       0x44 ./src/menu.o
+                0x002009e8                fs_pFileExt
+                0x002009ec                menustate
+                0x002009f6                config_autofire
+                0x002009f7                menusub
+ .bss           0x00200a2c        0x0 ./src/mmc.o
+ .bss           0x00200a2c        0x0 ./src/main.o
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+ .bss           0x00200a2c        0x0 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+ *(COMMON)
+ COMMON         0x00200a2c      0xaf4 ./src/fdd.o
+                0x00200a2c                df
+                0x0020151c                pdfx
+ COMMON         0x00201520     0x1894 ./src/fat.o
+                0x00201520                fat_size
+                0x00201524                DirEntryLFN
+                0x00201d4c                DirEntry
+                0x00201e4c                root_directory_cluster
+                0x00201e50                sector_buffer
+                0x00202050                dir_entries
+                0x00202052                fat_number
+                0x00202054                buffered_fat_index
+                0x00202058                fat_start
+                0x0020205c                entries_per_cluster
+                0x00202060                root_directory_start
+                0x00202064                cluster_mask
+                0x00202068                t_sort_table
+                0x00202070                root_directory_size
+                0x00202074                cluster_size
+                0x00202078                sort_table
+                0x00202080                t_DirEntryLFN
+                0x002028a8                directory_cluster
+                0x002028ac                data_start
+                0x002028b0                fat_buffer
+                0x00202cb0                t_DirEntry
+                0x00202db0                boot_sector
+ COMMON         0x00202db4     0x2270 ./src/hdd.o
+                0x00202db4                hdf
+ COMMON         0x00205024       0x40 ./src/menu.o
+                0x00205024                fs_Options
+                0x00205025                fs_MenuCancel
+                0x00205028                DiskInfo
+                0x0020502d                fs_MenuSelect
+                0x00205030                scroll_offset
+                0x00205034                DirEntryInfo
+                0x0020505c                scroll_timer
+                0x00205060                menu_timer
+ COMMON         0x00205064        0x8 ./src/mmc.o
+                0x00205064                response
+                0x00205065                CardType
+                0x00205066                crc
+                0x00205068                timeout
+ COMMON         0x0020506c      0x1d4 ./src/main.o
+                0x0020506c                file
+                0x00205198                Error
+                0x0020519c                s
+                0x002051c4                config
+                0x00205240                . = ALIGN (0x8)
+                0x00205240                __bss_end__ = .
+
+.stack          0x00205240     0x1000 load address 0x0010e968
+                0x00205240                __stack_start__ = .
+                0x00205240                . = (. + IRQ_STACK_SIZE)
+                0x00205240                . = ALIGN (0x4)
+                0x00205240                __irq_stack_top__ = .
+                0x00205240                . = (. + FIQ_STACK_SIZE)
+                0x00205240                . = ALIGN (0x4)
+                0x00205240                __fiq_stack_top__ = .
+                0x00205240                . = (. + SVC_STACK_SIZE)
+                0x00205240                . = ALIGN (0x4)
+                0x00205240                __svc_stack_top__ = .
+                0x00205240                . = (. + ABT_STACK_SIZE)
+                0x00205240                . = ALIGN (0x4)
+                0x00205240                __abt_stack_top__ = .
+                0x00205240                . = (. + UND_STACK_SIZE)
+                0x00205240                . = ALIGN (0x4)
+                0x00205240                __und_stack_top__ = .
+                0x00206240                . = (. + C_STACK_SIZE)
+ *fill*         0x00205240     0x1000 
+                0x00206240                . = ALIGN (0x4)
+                0x00206240                __c_stack_top__ = .
+                0x00206240                __stack_end__ = .
+                0x00206240                _end = .
+                0x00206240                __end = .
+                0x00206240                PROVIDE (end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x228
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ./src/startup.o
+ .debug_aranges
+                0x00000020       0x20 ./src/syscalls.o
+ .debug_aranges
+                0x00000040       0x20 ./src/stringlight.o
+ .debug_aranges
+                0x00000060       0x20 ./src/printf.o
+ .debug_aranges
+                0x00000080       0x20 ./src/fdd.o
+ .debug_aranges
+                0x000000a0       0x30 ./src/fat.o
+ .debug_aranges
+                0x000000d0       0x20 ./src/osd.o
+ .debug_aranges
+                0x000000f0       0x20 ./src/fpga.o
+ .debug_aranges
+                0x00000110       0x30 ./src/firmware.o
+ .debug_aranges
+                0x00000140       0x50 ./src/hardware.o
+ .debug_aranges
+                0x00000190       0x20 ./src/hdd.o
+ .debug_aranges
+                0x000001b0       0x20 ./src/menu.o
+ .debug_aranges
+                0x000001d0       0x38 ./src/mmc.o
+ .debug_aranges
+                0x00000208       0x20 ./src/main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xe320
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x77 ./src/startup.o
+ .debug_info    0x00000077      0xdb6 ./src/syscalls.o
+ .debug_info    0x00000e2d      0x1b5 ./src/stringlight.o
+ .debug_info    0x00000fe2      0x7a7 ./src/printf.o
+ .debug_info    0x00001789     0x1224 ./src/fdd.o
+ .debug_info    0x000029ad     0x1c0a ./src/fat.o
+ .debug_info    0x000045b7      0x927 ./src/osd.o
+ .debug_info    0x00004ede      0xfbd ./src/fpga.o
+ .debug_info    0x00005e9b      0x83a ./src/firmware.o
+ .debug_info    0x000066d5     0x1249 ./src/hardware.o
+ .debug_info    0x0000791e     0x1713 ./src/hdd.o
+ .debug_info    0x00009031     0x3121 ./src/menu.o
+ .debug_info    0x0000c152      0xb14 ./src/mmc.o
+ .debug_info    0x0000cc66     0x16ba ./src/main.o
+
+.debug_abbrev   0x00000000     0x1ce5
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ./src/startup.o
+ .debug_abbrev  0x00000014      0x263 ./src/syscalls.o
+ .debug_abbrev  0x00000277      0x107 ./src/stringlight.o
+ .debug_abbrev  0x0000037e      0x221 ./src/printf.o
+ .debug_abbrev  0x0000059f      0x240 ./src/fdd.o
+ .debug_abbrev  0x000007df      0x28e ./src/fat.o
+ .debug_abbrev  0x00000a6d      0x1e3 ./src/osd.o
+ .debug_abbrev  0x00000c50      0x22a ./src/fpga.o
+ .debug_abbrev  0x00000e7a      0x1ec ./src/firmware.o
+ .debug_abbrev  0x00001066      0x2bd ./src/hardware.o
+ .debug_abbrev  0x00001323      0x2d6 ./src/hdd.o
+ .debug_abbrev  0x000015f9      0x2cd ./src/menu.o
+ .debug_abbrev  0x000018c6      0x1e3 ./src/mmc.o
+ .debug_abbrev  0x00001aa9      0x23c ./src/main.o
+
+.debug_line     0x00000000     0x2d8c
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 ./src/startup.o
+ .debug_line    0x000000a7      0x1c6 ./src/syscalls.o
+ .debug_line    0x0000026d      0x176 ./src/stringlight.o
+ .debug_line    0x000003e3      0x1e9 ./src/printf.o
+ .debug_line    0x000005cc      0x333 ./src/fdd.o
+ .debug_line    0x000008ff      0x74c ./src/fat.o
+ .debug_line    0x0000104b      0x177 ./src/osd.o
+ .debug_line    0x000011c2      0x218 ./src/fpga.o
+ .debug_line    0x000013da      0x2b2 ./src/firmware.o
+ .debug_line    0x0000168c      0x2c0 ./src/hardware.o
+ .debug_line    0x0000194c      0x49e ./src/hdd.o
+ .debug_line    0x00001dea      0x9e4 ./src/menu.o
+ .debug_line    0x000027ce      0x289 ./src/mmc.o
+ .debug_line    0x00002a57      0x335 ./src/main.o
+
+.debug_frame    0x00000000     0x1268
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xbc ./src/syscalls.o
+ .debug_frame   0x000000bc       0x48 ./src/stringlight.o
+ .debug_frame   0x00000104      0x1b8 ./src/printf.o
+ .debug_frame   0x000002bc      0x194 ./src/fdd.o
+ .debug_frame   0x00000450      0x230 ./src/fat.o
+ .debug_frame   0x00000680      0x1e8 ./src/osd.o
+ .debug_frame   0x00000868      0x160 ./src/fpga.o
+ .debug_frame   0x000009c8       0xbc ./src/firmware.o
+ .debug_frame   0x00000a84      0x188 ./src/hardware.o
+ .debug_frame   0x00000c0c      0x17c ./src/hdd.o
+ .debug_frame   0x00000d88      0x16c ./src/menu.o
+ .debug_frame   0x00000ef4      0x120 ./src/mmc.o
+ .debug_frame   0x00001014       0xdc ./src/main.o
+ .debug_frame   0x000010f0       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00001110       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+ .debug_frame   0x00001130       0x28 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+ .debug_frame   0x00001158       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00001178       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .debug_frame   0x00001198       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+ .debug_frame   0x000011b8       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+ .debug_frame   0x000011d8       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+ .debug_frame   0x000011f8       0x28 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+ .debug_frame   0x00001220       0x28 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+ .debug_frame   0x00001248       0x20 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+
+.debug_str      0x00000000     0x1b50
+ *(.debug_str)
+ .debug_str     0x00000000      0x60e ./src/syscalls.o
+                                0x69d (size before relaxing)
+ .debug_str     0x0000060e       0x59 ./src/stringlight.o
+                                0x1c7 (size before relaxing)
+ .debug_str     0x00000667       0xa0 ./src/printf.o
+                                0x1c0 (size before relaxing)
+ .debug_str     0x00000707      0x184 ./src/fdd.o
+                                0x338 (size before relaxing)
+ .debug_str     0x0000088b      0x3ca ./src/fat.o
+                                0x680 (size before relaxing)
+ .debug_str     0x00000c55      0x199 ./src/osd.o
+                                0x2e0 (size before relaxing)
+ .debug_str     0x00000dee       0x8e ./src/fpga.o
+                                0x27a (size before relaxing)
+ .debug_str     0x00000e7c       0xaf ./src/firmware.o
+                                0x301 (size before relaxing)
+ .debug_str     0x00000f2b      0x35b ./src/hardware.o
+                                0x8e3 (size before relaxing)
+ .debug_str     0x00001286      0x1df ./src/hdd.o
+                                0x4cb (size before relaxing)
+ .debug_str     0x00001465      0x63d ./src/menu.o
+                                0xc28 (size before relaxing)
+ .debug_str     0x00001aa2       0x70 ./src/mmc.o
+                                0x248 (size before relaxing)
+ .debug_str     0x00001b12       0x3e ./src/main.o
+                                0x584 (size before relaxing)
+
+.debug_loc      0x00000000     0x659a
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x2f6 ./src/syscalls.o
+ .debug_loc     0x000002f6      0x180 ./src/stringlight.o
+ .debug_loc     0x00000476      0x9ff ./src/printf.o
+ .debug_loc     0x00000e75      0xc50 ./src/fdd.o
+ .debug_loc     0x00001ac5     0x14c0 ./src/fat.o
+ .debug_loc     0x00002f85      0x83e ./src/osd.o
+ .debug_loc     0x000037c3      0x6c5 ./src/fpga.o
+ .debug_loc     0x00003e88      0x40c ./src/firmware.o
+ .debug_loc     0x00004294      0x20c ./src/hardware.o
+ .debug_loc     0x000044a0      0xc34 ./src/hdd.o
+ .debug_loc     0x000050d4      0xdf8 ./src/menu.o
+ .debug_loc     0x00005ecc      0x482 ./src/mmc.o
+ .debug_loc     0x0000634e      0x24c ./src/main.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/syscalls.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/stringlight.o
+ .comment       0x00000000       0x71 ./src/printf.o
+ .comment       0x00000000       0x71 ./src/fdd.o
+ .comment       0x00000000       0x71 ./src/fat.o
+ .comment       0x00000000       0x71 ./src/osd.o
+ .comment       0x00000000       0x71 ./src/fpga.o
+ .comment       0x00000000       0x71 ./src/firmware.o
+ .comment       0x00000000       0x71 ./src/hardware.o
+ .comment       0x00000000       0x71 ./src/hdd.o
+ .comment       0x00000000       0x71 ./src/menu.o
+ .comment       0x00000000       0x71 ./src/mmc.o
+ .comment       0x00000000       0x71 ./src/main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+.ARM.attributes
+                0x00000000       0x2c
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x20 ./src/startup.o
+ .ARM.attributes
+                0x00000020       0x30 ./src/syscalls.o
+ .ARM.attributes
+                0x00000050       0x30 ./src/stringlight.o
+ .ARM.attributes
+                0x00000080       0x30 ./src/printf.o
+ .ARM.attributes
+                0x000000b0       0x30 ./src/fdd.o
+ .ARM.attributes
+                0x000000e0       0x30 ./src/fat.o
+ .ARM.attributes
+                0x00000110       0x30 ./src/osd.o
+ .ARM.attributes
+                0x00000140       0x30 ./src/fpga.o
+ .ARM.attributes
+                0x00000170       0x30 ./src/firmware.o
+ .ARM.attributes
+                0x000001a0       0x30 ./src/hardware.o
+ .ARM.attributes
+                0x000001d0       0x30 ./src/hdd.o
+ .ARM.attributes
+                0x00000200       0x30 ./src/menu.o
+ .ARM.attributes
+                0x00000230       0x30 ./src/mmc.o
+ .ARM.attributes
+                0x00000260       0x30 ./src/main.o
+ .ARM.attributes
+                0x00000290       0x18 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000002a8       0x18 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002c0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x000002f0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000320       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000350       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000380       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000003b0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000003e0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+ .ARM.attributes
+                0x00000410       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000440       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000470       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+ .ARM.attributes
+                0x000004a0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x000004d0       0x30 /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(firmware_rom.elf elf32-littlearm)
+
+.debug_ranges   0x00000000       0xf0
+ .debug_ranges  0x00000000       0x18 ./src/printf.o
+ .debug_ranges  0x00000018       0x50 ./src/fat.o
+ .debug_ranges  0x00000068       0x20 ./src/firmware.o
+ .debug_ranges  0x00000088       0x40 ./src/hardware.o
+ .debug_ranges  0x000000c8       0x28 ./src/mmc.o
+
+Cross Reference Table
+
+Symbol                                            File
+BootExit                                          ./src/fpga.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+BootPrint                                         ./src/fpga.o
+                                                  ./src/main.o
+BootUpload                                        ./src/fpga.o
+                                                  ./src/main.o
+BuildHardfileIndex                                ./src/hdd.o
+CalculateCRC32                                    ./src/firmware.o
+CardType                                          ./src/mmc.o
+ChangeDirectory                                   ./src/fat.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+CheckButton                                       ./src/hardware.o
+                                                  ./src/main.o
+                                                  ./src/osd.o
+CheckFirmware                                     ./src/firmware.o
+                                                  ./src/menu.o
+CheckTimer                                        ./src/hardware.o
+                                                  ./src/mmc.o
+                                                  ./src/menu.o
+                                                  ./src/osd.o
+ClearMemory                                       ./src/fpga.o
+                                                  ./src/main.o
+CompareDirEntries                                 ./src/fat.o
+ConfigAutofire                                    ./src/osd.o
+                                                  ./src/menu.o
+ConfigChipset                                     ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ConfigFilter                                      ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ConfigFloppy                                      ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ConfigIDE                                         ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ConfigMemory                                      ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ConfigScanlines                                   ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ConfigureFpga                                     ./src/fpga.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+DAbortHandler                                     ./src/startup.o
+DEBUG                                             ./src/fdd.o
+                                                  ./src/menu.o
+DirEntry                                          ./src/menu.o
+                                                  ./src/fat.o
+DirEntryInfo                                      ./src/menu.o
+DirEntryLFN                                       ./src/menu.o
+                                                  ./src/fat.o
+DisableCard                                       ./src/hardware.o
+                                                  ./src/mmc.o
+DisableFpga                                       ./src/hardware.o
+                                                  ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/fpga.o
+                                                  ./src/fdd.o
+DisableOsd                                        ./src/hardware.o
+                                                  ./src/osd.o
+DiskInfo                                          ./src/menu.o
+EnableCard                                        ./src/hardware.o
+                                                  ./src/mmc.o
+EnableFpga                                        ./src/hardware.o
+                                                  ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/fpga.o
+                                                  ./src/fdd.o
+EnableOsd                                         ./src/hardware.o
+                                                  ./src/osd.o
+Error                                             ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/firmware.o
+                                                  ./src/fdd.o
+ErrorMessage                                      ./src/menu.o
+                                                  ./src/fat.o
+ExitFunction                                      ./src/startup.o
+FIQHandler                                        ./src/startup.o
+FatalError                                        ./src/main.o
+                                                  ./src/fpga.o
+FileCreate                                        ./src/fat.o
+                                                  ./src/main.o
+FileNextSector                                    ./src/fat.o
+                                                  ./src/menu.o
+                                                  ./src/firmware.o
+                                                  ./src/fpga.o
+                                                  ./src/fdd.o
+FileOpen                                          ./src/fat.o
+                                                  ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/firmware.o
+                                                  ./src/fpga.o
+FileRead                                          ./src/fat.o
+                                                  ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/firmware.o
+                                                  ./src/fpga.o
+                                                  ./src/fdd.o
+FileReadEx                                        ./src/fat.o
+                                                  ./src/hdd.o
+FileSeek                                          ./src/fat.o
+                                                  ./src/hdd.o
+                                                  ./src/firmware.o
+FileWrite                                         ./src/fat.o
+                                                  ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/fdd.o
+FindDrive                                         ./src/fat.o
+                                                  ./src/main.o
+FindSync                                          ./src/fdd.o
+GetASCIIKey                                       ./src/osd.o
+                                                  ./src/menu.o
+GetData                                           ./src/fdd.o
+GetDiskInfo                                       ./src/menu.o
+GetFATLink                                        ./src/fat.o
+GetFPGAStatus                                     ./src/fpga.o
+                                                  ./src/hdd.o
+GetHardfileGeometry                               ./src/hdd.o
+GetHeader                                         ./src/fdd.o
+GetSPIMode                                        ./src/firmware.o
+                                                  ./src/mmc.o
+                                                  ./src/menu.o
+GetTimer                                          ./src/hardware.o
+                                                  ./src/main.o
+                                                  ./src/mmc.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+                                                  ./src/osd.o
+HandleFDD                                         ./src/fdd.o
+                                                  ./src/main.o
+HandleFpga                                        ./src/main.o
+HandleHDD                                         ./src/hdd.o
+                                                  ./src/main.o
+HandleUI                                          ./src/menu.o
+                                                  ./src/main.o
+HardFileSeek                                      ./src/hdd.o
+IRQHandler                                        ./src/startup.o
+IdentifyDevice                                    ./src/hdd.o
+InfoMessage                                       ./src/menu.o
+InsertFloppy                                      ./src/menu.o
+LoadConfiguration                                 ./src/main.o
+MMC_CMD12                                         ./src/mmc.o
+MMC_CRC                                           ./src/mmc.o
+MMC_Command                                       ./src/mmc.o
+MMC_Init                                          ./src/mmc.o
+                                                  ./src/main.o
+MMC_Read                                          ./src/mmc.o
+                                                  ./src/fat.o
+MMC_ReadMultiple                                  ./src/mmc.o
+                                                  ./src/fat.o
+MMC_Write                                         ./src/mmc.o
+                                                  ./src/fat.o
+OSD_PrintText                                     ./src/osd.o
+                                                  ./src/menu.o
+OpenHardfile                                      ./src/hdd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+OsdClear                                          ./src/osd.o
+                                                  ./src/menu.o
+OsdDisable                                        ./src/osd.o
+                                                  ./src/menu.o
+OsdEnable                                         ./src/osd.o
+                                                  ./src/menu.o
+OsdGetCtrl                                        ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+OsdReset                                          ./src/osd.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+OsdWaitVBL                                        ./src/osd.o
+                                                  ./src/menu.o
+OsdWrite                                          ./src/osd.o
+                                                  ./src/menu.o
+PAbortHandler                                     ./src/startup.o
+PrintDirectory                                    ./src/menu.o
+ReadTrack                                         ./src/fdd.o
+SPI                                               ./src/hardware.o
+                                                  ./src/main.o
+                                                  ./src/mmc.o
+                                                  ./src/hdd.o
+                                                  ./src/fpga.o
+                                                  ./src/osd.o
+                                                  ./src/fdd.o
+SPI_Init                                          ./src/hardware.o
+                                                  ./src/main.o
+SPI_Wait4XferEnd                                  ./src/hardware.o
+SWIHandler                                        ./src/startup.o
+SaveConfiguration                                 ./src/main.o
+                                                  ./src/menu.o
+ScanDirectory                                     ./src/fat.o
+                                                  ./src/menu.o
+ScrollLongName                                    ./src/menu.o
+SelectFile                                        ./src/menu.o
+SendFile                                          ./src/fpga.o
+SendGap                                           ./src/fdd.o
+SendSector                                        ./src/fdd.o
+SetSPIMode                                        ./src/firmware.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+ShiftFpga                                         ./src/fpga.o
+SwapBytes                                         ./src/hdd.o
+Timer_Init                                        ./src/hardware.o
+                                                  ./src/main.o
+USART_Init                                        ./src/hardware.o
+                                                  ./src/main.o
+USART_Putc                                        ./src/hardware.o
+                                                  ./src/main.o
+USART_Write                                       ./src/hardware.o
+                                                  ./src/firmware.o
+                                                  ./src/syscalls.o
+UndefHandler                                      ./src/startup.o
+UpdateDriveStatus                                 ./src/fdd.o
+                                                  ./src/main.o
+UpdateEntry                                       ./src/fat.o
+                                                  ./src/main.o
+UploadKickstart                                   ./src/main.o
+                                                  ./src/menu.o
+WaitTimer                                         ./src/hardware.o
+                                                  ./src/main.o
+                                                  ./src/mmc.o
+WriteFirmware                                     ./src/firmware.o
+                                                  ./src/menu.o
+WriteStatus                                       ./src/hdd.o
+WriteTaskFile                                     ./src/hdd.o
+WriteTrack                                        ./src/fdd.o
+__abt_stack_top__                                 ./src/startup.o
+__aeabi_idiv0                                     /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+                                                  /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+__aeabi_ldiv0                                     /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+                                                  ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/hardware.o
+                                                  ./src/fat.o
+                                                  ./src/printf.o
+__aeabi_uidivmod                                  /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+                                                  ./src/printf.o
+__bss_end__                                       ./src/startup.o
+__bss_start__                                     ./src/startup.o
+__c_stack_top__                                   ./src/startup.o
+__ctype_ptr__                                     /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+                                                  ./src/fat.o
+__data_load                                       ./src/startup.o
+__data_start                                      ./src/startup.o
+__errno                                           /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+                                                  ./src/syscalls.o
+__fastcode_end                                    ./src/startup.o
+__fastcode_load                                   ./src/startup.o
+__fastcode_start                                  ./src/startup.o
+__fiq_stack_top__                                 ./src/startup.o
+__irq_stack_top__                                 ./src/startup.o
+__sf_fake_stderr                                  /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+__sf_fake_stdin                                   /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+__sf_fake_stdout                                  /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+__stack_end__                                     ./src/startup.o
+__stack_start__                                   ./src/startup.o
+__svc_stack_top__                                 ./src/startup.o
+__udivsi3                                         /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/libgcc.a(_udivsi3.o)
+__und_stack_top__                                 ./src/startup.o
+_close_r                                          ./src/syscalls.o
+_ctype_                                           /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-ctype_.o)
+_edata                                            ./src/startup.o
+_fstat_r                                          ./src/syscalls.o
+_global_impure_ptr                                /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+_impure_ptr                                       /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-impure.o)
+                                                  /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-errno.o)
+                                                  ./src/hardware.o
+_isatty_r                                         ./src/syscalls.o
+_lseek_r                                          ./src/syscalls.o
+_read_r                                           ./src/syscalls.o
+_sbrk_r                                           ./src/syscalls.o
+_start                                            ./src/startup.o
+_strlcpy                                          ./src/stringlight.o
+_strncpy                                          ./src/menu.o
+_strncpySpace                                     ./src/stringlight.o
+_strnicmp                                         ./src/fat.o
+_write_r                                          ./src/syscalls.o
+boot_sector                                       ./src/fat.o
+buffered_fat_index                                ./src/fat.o
+charfont                                          ./src/osd.o
+chs2lba                                           ./src/hdd.o
+cluster_mask                                      ./src/hdd.o
+                                                  ./src/fat.o
+cluster_size                                      ./src/main.o
+                                                  ./src/fat.o
+config                                            ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+config_autofire                                   ./src/menu.o
+config_autofire_msg                               ./src/menu.o
+config_chipset_msg                                ./src/menu.o
+config_filter_msg                                 ./src/menu.o
+config_memory_chip_msg                            ./src/menu.o
+                                                  ./src/main.o
+config_memory_slow_msg                            ./src/menu.o
+                                                  ./src/main.o
+config_scanlines_msg                              ./src/menu.o
+crc                                               ./src/mmc.o
+crc32_table                                       ./src/firmware.o
+data_start                                        ./src/fat.o
+df                                                ./src/menu.o
+                                                  ./src/fdd.o
+dir_entries                                       ./src/fat.o
+directory_cluster                                 ./src/fat.o
+drives                                            ./src/fdd.o
+                                                  ./src/menu.o
+end                                               ./src/syscalls.o
+entries_per_cluster                               ./src/fat.o
+fat32                                             ./src/fat.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+fat_buffer                                        ./src/fat.o
+fat_number                                        ./src/fat.o
+fat_size                                          ./src/fat.o
+fat_start                                         ./src/fat.o
+file                                              ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/fpga.o
+                                                  ./src/fdd.o
+fputc                                             ./src/hardware.o
+fs_MenuCancel                                     ./src/menu.o
+fs_MenuSelect                                     ./src/menu.o
+fs_Options                                        ./src/menu.o
+fs_pFileExt                                       ./src/menu.o
+hdf                                               ./src/main.o
+                                                  ./src/hdd.o
+iCurrentDirectory                                 ./src/fat.o
+                                                  ./src/menu.o
+iPreviousDirectory                                ./src/fat.o
+iSelectedEntry                                    ./src/fat.o
+                                                  ./src/menu.o
+init_hardware                                     ./src/hardware.o
+                                                  ./src/startup.o
+init_printf                                       ./src/printf.o
+                                                  ./src/main.o
+keycode_table                                     ./src/osd.o
+lfn_checksum                                      ./src/fat.o
+main                                              ./src/main.o
+                                                  ./src/startup.o
+memcmp                                            /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcmp.o)
+                                                  ./src/menu.o
+memcpy                                            /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memcpy-stub.o)
+                                                  ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+                                                  ./src/fat.o
+                                                  ./src/stringlight.o
+memset                                            /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-memset.o)
+                                                  ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+                                                  ./src/firmware.o
+                                                  ./src/fat.o
+                                                  ./src/syscalls.o
+menu_timer                                        ./src/menu.o
+menustate                                         ./src/menu.o
+menusub                                           ./src/menu.o
+nDirEntries                                       ./src/fat.o
+                                                  ./src/menu.o
+pdfx                                              ./src/fdd.o
+response                                          ./src/mmc.o
+root_directory_cluster                            ./src/fat.o
+root_directory_size                               ./src/fat.o
+root_directory_start                              ./src/fat.o
+s                                                 ./src/main.o
+                                                  ./src/menu.o
+scroll_offset                                     ./src/menu.o
+scroll_timer                                      ./src/menu.o
+sector_buffer                                     ./src/main.o
+                                                  ./src/hdd.o
+                                                  ./src/firmware.o
+                                                  ./src/fpga.o
+                                                  ./src/fat.o
+                                                  ./src/fdd.o
+sort_table                                        ./src/menu.o
+                                                  ./src/fat.o
+strcat                                            /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcat.o)
+                                                  ./src/menu.o
+strcpy                                            /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strcpy.o)
+                                                  ./src/fat.o
+strlen                                            /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strlen.o)
+                                                  ./src/menu.o
+                                                  ./src/stringlight.o
+strncat                                           /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncat.o)
+                                                  ./src/menu.o
+strncmp                                           /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncmp.o)
+                                                  ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/firmware.o
+                                                  ./src/fat.o
+strncpy                                           /home/csg/git/minimig-arm-controller-0805/firmware/ASB140501/ARM/gcc-arm-none-eabi-4_8-2014q1/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/libc_s.a(lib_a-strncpy.o)
+                                                  ./src/main.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+                                                  ./src/fat.o
+t_DirEntry                                        ./src/fat.o
+t_DirEntryLFN                                     ./src/fat.o
+t_sort_table                                      ./src/fat.o
+tfp_format                                        ./src/printf.o
+tfp_printf                                        ./src/printf.o
+                                                  ./src/main.o
+                                                  ./src/mmc.o
+                                                  ./src/menu.o
+                                                  ./src/hdd.o
+                                                  ./src/firmware.o
+                                                  ./src/fpga.o
+                                                  ./src/fat.o
+                                                  ./src/fdd.o
+tfp_sprintf                                       ./src/printf.o
+                                                  ./src/main.o
+                                                  ./src/menu.o
+timeout                                           ./src/mmc.o
+version                                           ./src/main.o
+                                                  ./src/menu.o
