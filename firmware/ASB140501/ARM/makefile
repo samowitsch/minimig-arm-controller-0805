@@ -15,7 +15,7 @@
 ##############################################################################################
 # Start of default section
 #
-GCC_PATH = /usr/local/gcc-arm-none-eabi-4_8-2014q1/bin/
+GCC_PATH = ./gcc-arm-none-eabi-4_8-2014q1/bin/
 TRGT = $(GCC_PATH)arm-none-eabi-
 CC   = $(TRGT)gcc
 CP   = $(TRGT)objcopy
