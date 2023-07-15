@@ -1,11 +1,20 @@
+<<<<<<< Updated upstream
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.2-378541a8eb~116~ubuntu20.04.1*
 G04 #@! TF.CreationDate,2022-02-17T23:44:56+01:00*
+=======
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.11-2627ca5db0~126~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2023-07-01T01:01:39+02:00*
+>>>>>>> Stashed changes
 G04 #@! TF.ProjectId,minimig-arm-controller-0805,6d696e69-6d69-4672-9d61-726d2d636f6e,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+<<<<<<< Updated upstream
 G04 Created by KiCad (PCBNEW 6.0.2-378541a8eb~116~ubuntu20.04.1) date 2022-02-17 23:44:56*
+=======
+G04 Created by KiCad (PCBNEW 6.0.11-2627ca5db0~126~ubuntu22.04.1) date 2023-07-01 01:01:39*
+>>>>>>> Stashed changes
 %MOMM*%
 %LPD*%
 G01*
@@ -73,7 +82,11 @@ G01*
 X102000000Y-20500000D02*
 G75*
 G03*
+<<<<<<< Updated upstream
 X100000000Y-22500000I-1J-1999999D01*
+=======
+X100000000Y-22500000I0J-2000000D01*
+>>>>>>> Stashed changes
 G01*
 X109750000Y-58250000D02*
 G75*
@@ -88,7 +101,11 @@ G01*
 X109750000Y-51500000D02*
 G75*
 G03*
+<<<<<<< Updated upstream
 X108500000Y-50250000I-1250002J-2D01*
+=======
+X108500000Y-50250000I-1250000J0D01*
+>>>>>>> Stashed changes
 G01*
 X110250000Y-51500000D02*
 G75*
@@ -112,16 +129,28 @@ X160000000Y-58000000D01*
 X100000000Y-58000000D02*
 G75*
 G03*
+<<<<<<< Updated upstream
 X102000000Y-60000000I1999999J-1D01*
+=======
+X102000000Y-60000000I2000000J0D01*
+>>>>>>> Stashed changes
 G01*
 X160000000Y-22500000D02*
 G75*
 G03*
+<<<<<<< Updated upstream
 X158000000Y-20500000I-1999999J1D01*
+=======
+X158000000Y-20500000I-2000000J0D01*
+>>>>>>> Stashed changes
 G01*
 X158000000Y-60000000D02*
 G75*
 G03*
+<<<<<<< Updated upstream
 X160000000Y-58000000I1J1999999D01*
+=======
+X160000000Y-58000000I0J2000000D01*
+>>>>>>> Stashed changes
 G01*
 M02*

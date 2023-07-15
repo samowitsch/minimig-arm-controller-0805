@@ -1,12 +1,21 @@
+<<<<<<< Updated upstream
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.2-378541a8eb~116~ubuntu20.04.1*
 G04 #@! TF.CreationDate,2022-02-17T23:44:55+01:00*
+=======
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.11-2627ca5db0~126~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2023-07-01T01:01:39+02:00*
+>>>>>>> Stashed changes
 G04 #@! TF.ProjectId,minimig-arm-controller-0805,6d696e69-6d69-4672-9d61-726d2d636f6e,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+<<<<<<< Updated upstream
 G04 Created by KiCad (PCBNEW 6.0.2-378541a8eb~116~ubuntu20.04.1) date 2022-02-17 23:44:55*
+=======
+G04 Created by KiCad (PCBNEW 6.0.11-2627ca5db0~126~ubuntu22.04.1) date 2023-07-01 01:01:39*
+>>>>>>> Stashed changes
 %MOMM*%
 %LPD*%
 G01*
