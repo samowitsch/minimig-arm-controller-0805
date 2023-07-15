@@ -97,11 +97,13 @@ Layer Nr | Comment
 
 ## Comparison between versions
 
-0805 rev1.0.2 | 0805 rev1 | original 0603 version
---- |----------------------------------------------------------------| ---
-not assembled yet ;o) | ![arm-0805-version](images/arm-0805-version.jpg)               | ![arm-0603-version](images/arm-0603-version.jpg)
-![arm-0805-version-top](images/arm-0805-version-top-rev1.0.2.png) | ![arm-0805-version-top](images/arm-0805-version-top.png) | ![arm-0603-version-top](images/arm-0603-version-top.png)       
-![arm-0805-version-bottom](images/arm-0805-version-bottom-rev1.0.2.png) | ![arm-0805-version-bottom](images/arm-0805-version-bottom.png) | ![arm-0603-version-bottom](images/arm-0603-version-bottom.png) 
+0805 rev1.0.3 | 0805 rev1.0.2 | 0805 rev1 | original 0603 version
+--- | --- | --- | ---
+![arm-0805-version](images/arm-0805-version-rev1.0.3.jpg) | ![arm-0805-version](images/arm-0805-version-rev1.0.2.jpg) | ![arm-0805-version](images/arm-0805-version.jpg)               | ![arm-0603-version](images/arm-0603-version.jpg)
+no stable | not stable | stable(?) |
+changes: reset button, power led, smd resonator | changes: dont know anymore ;o) |  | What a beauty of a pcb design of Jakub!
+![arm-0805-version-top](images/arm-0805-version-top-rev1.0.3.png) | ![arm-0805-version-top](images/arm-0805-version-top-rev1.0.2.png) | ![arm-0805-version-top](images/arm-0805-version-top.png) | ![arm-0603-version-top](images/arm-0603-version-top.png)
+![arm-0805-version-bottom](images/arm-0805-version-bottom-rev1.0.3.png) | ![arm-0805-version-bottom](images/arm-0805-version-bottom-rev1.0.2.png) | ![arm-0805-version-bottom](images/arm-0805-version-bottom.png) | ![arm-0603-version-bottom](images/arm-0603-version-bottom.png)
 
 ## Resources and links
 
