@@ -1699,7 +1699,7 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid d68e5ddb-039c-483f-88a3-1b0b7964b482)
   )
-  (text "LED" (at 147.32 156.21 0)
+  (text "Reset Button\n" (at 147.32 156.21 0)
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left bottom))
     (uuid f55a581f-cc70-429d-8a37-347d481f0dea)
   )
